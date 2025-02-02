@@ -5,7 +5,7 @@
 - I am currently trying to find vulnerabilities in the wild.
 - I have learned pentesting of web applications, Android, Desktop, and I’m now learning iOS hacking.
 - I’m open to collaboration on anything from building automations to infrastructure management and security research.
-- I enjoy learning languages for fun — from computer programming to spoken languages like English, Spanish, and German.
+- I enjoy learning languages for fun — from computer programming to spoken languages.
 
 ## Tech Stack
 
