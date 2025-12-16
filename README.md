@@ -1,4 +1,4 @@
-# Hey there, I'm Amir Fadaeizadeh! :wave:
+# Hey there, I'm Amir! :wave:
 **Pentester and Security Enthusiast**
 
 ## About Me
